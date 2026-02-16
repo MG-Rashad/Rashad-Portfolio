@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "title": "System Administrator & Remote IT Services | Rashad N. Almejrab",
+    "description": "Professional system administration, remote IT support, Microsoft 365 services, and modern website development."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "subtitle": "System Administrator & IT Infrastructure | Web Solutions"
+  },
+  "hero": {
+    "title": "System Administrator",
+    "titleLine2": "IT Infrastructure",
+    "titleLine3": "Web Solutions",
+    "tagline": "Reliable IT infrastructure, secure systems, and modern websites — delivered locally and remotely.",
+    "ctaServices": "View Services",
+    "ctaContact": "Contact Me",
+    "slides": [
+      {
+        "image": "/slides/sysadmin.jpg",
+        "label": "System Administration",
+        "caption": "Enterprise-level server management and IT operations"
+      },
+      {
+        "image": "/slides/network.jpg",
+        "label": "Network & Security",
+        "caption": "Infrastructure design, firewalls, and network security"
+      },
+      {
+        "image": "/slides/cloud.jpg",
+        "label": "Microsoft 365 & Cloud",
+        "caption": "Cloud migration, setup, and management services"
+      },
+      {
+        "image": "/slides/webdev.jpg",
+        "label": "Web Development",
+        "caption": "Modern responsive websites with React & Next.js"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About Me",
+    "title": "Professional Background",
+    "p1": "I am a dedicated System Administrator and IT Infrastructure with a Diploma in Computer Science and a strong foundation in enterprise-level IT operations. With years of hands-on experience managing complex server environments, networking infrastructures, and cloud services, I deliver reliable and secure IT solutions to clients locally and internationally.",
+    "p2": "As a Microsoft-certified professional holding MCSA, MCITP, MCP, and MCTS credentials, I bring proven expertise in Windows Server administration, Active Directory management, and Microsoft 365 cloud services. My approach combines technical precision with a deep understanding of business needs.",
+    "p3": "I also specialize in modern web development, crafting professional websites using React, Next.js, and Tailwind CSS. Whether on-site or remote, I am committed to delivering enterprise-grade solutions that drive real results.",
+    "badges": {
+      "certified": "Microsoft Certified Professional",
+      "remote": "Remote Services Worldwide",
+      "experience": "Years of Enterprise Experience"
+    }
+  },
+  "skills": {
+    "sectionLabel": "Technical Skills",
+    "title": "Areas of Expertise",
+    "categories": {
+      "sysadmin": {
+        "title": "System Administration & Networking",
+        "items": [
+          "Windows Server (2008 R2 – 2019)",
+          "Active Directory & WSUS",
+          "Microsoft 365 & Cloud Services",
+          "Network Design, Monitoring & Security",
+          "Cisco, MikroTik, Fortinet, SonicWall, TP-Link"
+        ]
+      },
+      "infrastructure": {
+        "title": "Infrastructure",
+        "items": [
+          "Dell, HP, IBM Servers",
+          "Hardware Troubleshooting",
+          "LAN / WAN Implementation",
+          "Virtualization Technologies",
+          "Data Backup & Recovery"
+        ]
+      },
+      "webdev": {
+        "title": "Web Development",
+        "items": [
+          "HTML5, CSS3, JavaScript",
+          "React & Next.js",
+          "Tailwind CSS",
+          "GitHub & VS Code",
+          "AI-Assisted Development"
+        ]
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "Services",
+    "title": "What I Offer",
+    "remoteBadge": "Remote Services Available Worldwide",
+    "items": [
+      {
+        "title": "System Administration",
+        "description": "Comprehensive on-site and remote system administration for Windows Server environments, ensuring optimal performance and security.",
+        "tag": "On-site & Remote"
+      },
+      {
+        "title": "Remote IT Support & Troubleshooting",
+        "description": "Fast, reliable remote IT support to diagnose and resolve technical issues, minimizing downtime for your business.",
+        "tag": "Remote"
+      },
+      {
+        "title": "Windows Server & Active Directory",
+        "description": "Expert management of Windows Server deployments, Active Directory, Group Policy, and domain services.",
+        "tag": "On-site & Remote"
+      },
+      {
+        "title": "Network Setup, Security & Firewalls",
+        "description": "Design, implementation, and security of network infrastructure including firewalls, VPNs, and access control.",
+        "tag": "On-site & Remote"
+      },
+      {
+        "title": "Microsoft 365 & Cloud Services",
+        "description": "Setup, migration, and management of Microsoft 365 environments including Exchange Online, SharePoint, and Teams.",
+        "tag": "Remote"
+      },
+      {
+        "title": "Website Design & Development",
+        "description": "Modern, responsive websites built with React, Next.js, and Tailwind CSS — optimized for performance and SEO.",
+        "tag": "Remote"
+      },
+      {
+        "title": "Business & Company Websites",
+        "description": "Professional web presence for businesses, from corporate sites to landing pages, tailored to your brand.",
+        "tag": "Remote"
+      },
+      {
+        "title": "Ongoing IT & Website Maintenance",
+        "description": "Proactive monitoring, updates, and maintenance to keep your IT systems and websites running smoothly.",
+        "tag": "Remote"
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Certifications",
+    "title": "Professional Credentials",
+    "items": [
+      {
+        "name": "MCSA",
+        "detail": "Windows Server 2012",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Enterprise Administrator",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Server Administrator",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Virtualization Administrator",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCP & MCTS",
+        "detail": "Windows XP, 10, 11",
+        "issuer": "Microsoft"
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "title": "Get in Touch",
+    "description": "Have a project in mind or need IT support? I'm available for both local and international clients. Reach out and let's discuss how I can help.",
+    "remoteNote": "Remote IT services available locally & internationally",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "your@email.com",
+      "subjectPlaceholder": "How can I help?",
+      "messagePlaceholder": "Tell me about your project or IT needs..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "location": "Location",
+      "locationValue": "Tripoli, Libya"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "System Administrator & IT Infrastructure Engineer"
+  }
+}

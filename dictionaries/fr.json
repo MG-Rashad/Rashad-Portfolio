@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "title": "Administrateur Systemes & Services IT a Distance | Rashad Almejrab",
+    "description": "Services professionnels d'administration systemes, support IT a distance, Microsoft 365 et developpement web moderne."
+  },
+  "nav": {
+    "about": "A propos",
+    "skills": "Competences",
+    "services": "Services",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "subtitle": "Administrateur Systemes & Ingenieur Infrastructure IT | Solutions Web"
+  },
+  "hero": {
+    "title": "Administrateur Systemes",
+    "titleLine2": "Ingenieur Infrastructure IT",
+    "titleLine3": "Solutions Web",
+    "tagline": "Infrastructures fiables, systemes securises et sites web modernes — sur site et a distance.",
+    "ctaServices": "Voir les services",
+    "ctaContact": "Contactez-moi",
+    "slides": [
+      {
+        "image": "/slides/sysadmin.jpg",
+        "label": "Administration Systemes",
+        "caption": "Gestion de serveurs et operations IT au niveau entreprise"
+      },
+      {
+        "image": "/slides/network.jpg",
+        "label": "Reseau & Securite",
+        "caption": "Conception d'infrastructure, pare-feu et securite reseau"
+      },
+      {
+        "image": "/slides/cloud.jpg",
+        "label": "Microsoft 365 & Cloud",
+        "caption": "Migration, configuration et gestion cloud"
+      },
+      {
+        "image": "/slides/webdev.jpg",
+        "label": "Developpement Web",
+        "caption": "Sites web modernes et responsifs avec React & Next.js"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "A propos",
+    "title": "Parcours Professionnel",
+    "p1": "Je suis un administrateur systemes et ingenieur en infrastructure IT, titulaire d'un diplome en informatique, avec une solide experience dans les operations IT au niveau entreprise. Fort de plusieurs annees d'experience pratique dans la gestion d'environnements serveurs complexes, d'infrastructures reseau et de services cloud, je fournis des solutions IT fiables et securisees a mes clients localement et a l'international.",
+    "p2": "En tant que professionnel certifie Microsoft detenant les certifications MCSA, MCITP, MCP et MCTS, j'apporte une expertise prouvee dans l'administration Windows Server, la gestion Active Directory et les services cloud Microsoft 365. Mon approche allie precision technique et comprehension approfondie des besoins metiers.",
+    "p3": "Je me specialise egalement dans le developpement web moderne, concevant des sites professionnels avec React, Next.js et Tailwind CSS. Que ce soit sur site ou a distance, je m'engage a fournir des solutions de niveau entreprise qui produisent de vrais resultats.",
+    "badges": {
+      "certified": "Professionnel Certifie Microsoft",
+      "remote": "Services a Distance Mondiaux",
+      "experience": "Annees d'Experience Entreprise"
+    }
+  },
+  "skills": {
+    "sectionLabel": "Competences Techniques",
+    "title": "Domaines d'Expertise",
+    "categories": {
+      "sysadmin": {
+        "title": "Administration Systemes & Reseau",
+        "items": [
+          "Windows Server (2008 R2 – 2019)",
+          "Active Directory & WSUS",
+          "Microsoft 365 & Services Cloud",
+          "Conception, Surveillance & Securite Reseau",
+          "Cisco, MikroTik, Fortinet, SonicWall, TP-Link"
+        ]
+      },
+      "infrastructure": {
+        "title": "Infrastructure",
+        "items": [
+          "Serveurs Dell, HP, IBM",
+          "Depannage Materiel",
+          "Implementation LAN / WAN",
+          "Technologies de Virtualisation",
+          "Sauvegarde & Recuperation de Donnees"
+        ]
+      },
+      "webdev": {
+        "title": "Developpement Web",
+        "items": [
+          "HTML5, CSS3, JavaScript",
+          "React & Next.js",
+          "Tailwind CSS",
+          "GitHub & VS Code",
+          "Developpement Assiste par IA"
+        ]
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "Services",
+    "title": "Ce que je propose",
+    "remoteBadge": "Services a distance disponibles dans le monde entier",
+    "items": [
+      {
+        "title": "Administration Systemes",
+        "description": "Administration systemes complete sur site et a distance pour les environnements Windows Server, garantissant des performances et une securite optimales.",
+        "tag": "Sur site & A distance"
+      },
+      {
+        "title": "Support IT a Distance & Depannage",
+        "description": "Support IT rapide et fiable a distance pour diagnostiquer et resoudre les problemes techniques, minimisant les temps d'arret.",
+        "tag": "A distance"
+      },
+      {
+        "title": "Windows Server & Active Directory",
+        "description": "Gestion experte des deployments Windows Server, Active Directory, strategie de groupe et services de domaine.",
+        "tag": "Sur site & A distance"
+      },
+      {
+        "title": "Configuration Reseau, Securite & Pare-feu",
+        "description": "Conception, implementation et securisation de l'infrastructure reseau, y compris pare-feu, VPN et controle d'acces.",
+        "tag": "Sur site & A distance"
+      },
+      {
+        "title": "Microsoft 365 & Services Cloud",
+        "description": "Configuration, migration et gestion des environnements Microsoft 365, y compris Exchange Online, SharePoint et Teams.",
+        "tag": "A distance"
+      },
+      {
+        "title": "Conception & Developpement de Sites Web",
+        "description": "Sites web modernes et responsifs construits avec React, Next.js et Tailwind CSS — optimises pour la performance et le SEO.",
+        "tag": "A distance"
+      },
+      {
+        "title": "Sites d'Entreprise & Professionnels",
+        "description": "Presence web professionnelle pour les entreprises, des sites corporate aux landing pages, adaptee a votre marque.",
+        "tag": "A distance"
+      },
+      {
+        "title": "Maintenance IT & Web Continue",
+        "description": "Surveillance proactive, mises a jour et maintenance pour assurer le bon fonctionnement de vos systemes et sites web.",
+        "tag": "A distance"
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Certifications",
+    "title": "Credentials Professionnels",
+    "items": [
+      {
+        "name": "MCSA",
+        "detail": "Windows Server 2012",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Administrateur d'Entreprise",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Administrateur Serveur",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCITP",
+        "detail": "Administrateur Virtualisation",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "MCP & MCTS",
+        "detail": "Windows XP, 10, 11",
+        "issuer": "Microsoft"
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "title": "Restons en Contact",
+    "description": "Vous avez un projet en tete ou besoin de support IT ? Je suis disponible pour les clients locaux et internationaux. Contactez-moi et discutons de comment je peux vous aider.",
+    "remoteNote": "Services IT a distance disponibles localement et internationalement",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "votre@email.com",
+      "subjectPlaceholder": "Comment puis-je vous aider ?",
+      "messagePlaceholder": "Parlez-moi de votre projet ou de vos besoins IT..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Telephone / WhatsApp",
+      "location": "Localisation",
+      "locationValue": "Tripoli, Libye"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits reserves.",
+    "tagline": "Administrateur Systemes & Ingenieur Infrastructure IT"
+  }
+}
