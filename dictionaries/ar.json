@@ -60,17 +60,17 @@
       "sysadmin": {
         "title": "إدارة الأنظمة والشبكات",
         "items": [
-          "Windows Server (2008 R2 – 2019)",
+          "Windows Server (2008 R2 – 2022)",
           "Active Directory و WSUS",
           "Microsoft 365 والخدمات السحابية",
           "تصميم ومراقبة وأمن الشبكات",
-          "Cisco, MikroTik, Fortinet, SonicWall, TP-Link"
+          "Routers,  Switches, Firewalls"
         ]
       },
       "infrastructure": {
         "title": "البنية التحتية",
         "items": [
-          "خوادم Dell, HP, IBM",
+          "خوادم Dell, HP",
           "استكشاف أعطال الأجهزة وإصلاحها",
           "تنفيذ شبكات LAN / WAN",
           "تقنيات المحاكاة الافتراضية",
@@ -83,8 +83,7 @@
           "HTML5, CSS3, JavaScript",
           "React و Next.js",
           "Tailwind CSS",
-          "GitHub و VS Code",
-          "التطوير بمساعدة الذكاء الاصطناعي"
+          "GitHub و VS Code"
         ]
       }
     }
@@ -116,7 +115,7 @@
       },
       {
         "title": "Microsoft 365 والخدمات السحابية",
-        "description": "إعداد وترحيل وإدارة بيئات Microsoft 365 بما في ذلك Exchange Online وSharePoint وTeams.",
+        "description": "إعداد وترحيل وإدارة بيئات Microsoft 365 بما في ذلك Exchange Online وTeams.",
         "tag": "عن بُعد"
       },
       {
@@ -162,7 +161,7 @@
       },
       {
         "name": "MCP و MCTS",
-        "detail": "Windows XP, 10, 11",
+        "detail": "Windows 10, 11",
         "issuer": "Microsoft"
       }
     ]
@@ -192,6 +191,6 @@
   },
   "footer": {
     "rights": "جميع الحقوق محفوظة.",
-    "tagline": "مسؤول أنظمة ومهندس بنية تحتية لتقنية المعلومات"
+    "tagline": "مسؤول أنظمة و بنية تحتية لتقنية المعلومات"
   }
 }

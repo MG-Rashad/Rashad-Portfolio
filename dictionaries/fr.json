@@ -9,11 +9,11 @@
     "services": "Services",
     "certifications": "Certifications",
     "contact": "Contact",
-    "subtitle": "Administrateur Systemes & Ingenieur Infrastructure IT | Solutions Web"
+    "subtitle": "Administrateur Systemes & Infrastructure IT | Solutions Web"
   },
   "hero": {
     "title": "Administrateur Systemes",
-    "titleLine2": "Ingenieur Infrastructure IT",
+    "titleLine2": "Infrastructure IT",
     "titleLine3": "Solutions Web",
     "tagline": "Infrastructures fiables, systemes securises et sites web modernes — sur site et a distance.",
     "ctaServices": "Voir les services",
@@ -60,11 +60,11 @@
       "sysadmin": {
         "title": "Administration Systemes & Reseau",
         "items": [
-          "Windows Server (2008 R2 – 2019)",
+          "Windows Server (2008 R2 – 2022)",
           "Active Directory & WSUS",
           "Microsoft 365 & Services Cloud",
           "Conception, Surveillance & Securite Reseau",
-          "Cisco, MikroTik, Fortinet, SonicWall, TP-Link"
+          "Routers,  Switches, Firewalls"
         ]
       },
       "infrastructure": {
@@ -83,8 +83,7 @@
           "HTML5, CSS3, JavaScript",
           "React & Next.js",
           "Tailwind CSS",
-          "GitHub & VS Code",
-          "Developpement Assiste par IA"
+          "GitHub & VS Code"
         ]
       }
     }
@@ -162,7 +161,7 @@
       },
       {
         "name": "MCP & MCTS",
-        "detail": "Windows XP, 10, 11",
+        "detail": "Windows 10, 11",
         "issuer": "Microsoft"
       }
     ]
@@ -192,6 +191,6 @@
   },
   "footer": {
     "rights": "Tous droits reserves.",
-    "tagline": "Administrateur Systemes & Ingenieur Infrastructure IT"
+    "tagline": "Administrateur Systemes & Infrastructure."
   }
 }

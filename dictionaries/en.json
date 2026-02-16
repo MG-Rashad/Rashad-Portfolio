@@ -60,17 +60,17 @@
       "sysadmin": {
         "title": "System Administration & Networking",
         "items": [
-          "Windows Server (2008 R2 – 2019)",
+          "Windows Server (2008 R2 – 2022)",
           "Active Directory & WSUS",
           "Microsoft 365 & Cloud Services",
           "Network Design, Monitoring & Security",
-          "Cisco, MikroTik, Fortinet, SonicWall, TP-Link"
+          "Routers,  Switches, Firewalls"
         ]
       },
       "infrastructure": {
         "title": "Infrastructure",
         "items": [
-          "Dell, HP, IBM Servers",
+          "Dell, HP, Servers",
           "Hardware Troubleshooting",
           "LAN / WAN Implementation",
           "Virtualization Technologies",
@@ -83,8 +83,7 @@
           "HTML5, CSS3, JavaScript",
           "React & Next.js",
           "Tailwind CSS",
-          "GitHub & VS Code",
-          "AI-Assisted Development"
+          "GitHub & VS Code"
         ]
       }
     }
@@ -116,7 +115,7 @@
       },
       {
         "title": "Microsoft 365 & Cloud Services",
-        "description": "Setup, migration, and management of Microsoft 365 environments including Exchange Online, SharePoint, and Teams.",
+        "description": "Setup, migration, and management of Microsoft 365 environments including Exchange Online, and Teams.",
         "tag": "Remote"
       },
       {
@@ -162,7 +161,7 @@
       },
       {
         "name": "MCP & MCTS",
-        "detail": "Windows XP, 10, 11",
+        "detail": "Windows 10, 11",
         "issuer": "Microsoft"
       }
     ]
@@ -192,6 +191,6 @@
   },
   "footer": {
     "rights": "All rights reserved.",
-    "tagline": "System Administrator & IT Infrastructure Engineer"
+    "tagline": "System Administrator & Infrastructure."
   }
 }
