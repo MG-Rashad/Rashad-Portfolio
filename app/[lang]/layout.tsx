@@ -38,8 +38,8 @@ export async function generateMetadata({
     title: dict.metadata.title,
     description: dict.metadata.description,
     icons: {
-      icon: "/logo.png",
-      apple: "/logo.png",
+      icon: "/logo1.png",
+      apple: "/logo1.png",
     },
     alternates: {
       languages: {

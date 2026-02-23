@@ -54,7 +54,7 @@ export function Header({ dict, locale }: HeaderProps) {
           <div className="flex flex-shrink-0 items-center gap-3">
             <Link href={`/${locale}`} className="flex-shrink-0">
               <Image
-                src="/logo.png"
+                src="/logo1.png"
                 alt="RNJ Logo"
                 width={40}
                 height={40}

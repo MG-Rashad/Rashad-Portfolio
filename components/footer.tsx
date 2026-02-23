@@ -12,7 +12,7 @@ export function Footer({
       <div className="mx-auto flex max-w-6xl flex-col items-center gap-4 px-6 py-8 text-center md:flex-row md:justify-between md:text-start">
         <div className="flex items-center gap-3">
           <Image
-            src="/logo.png"
+            src="/logo1.png"
             alt="RNJ Logo"
             width={36}
             height={36}
